@@ -38,7 +38,7 @@ mysqlclient==1.4.6
 numpy==1.18.1
 packaging==20.3
 pbr==5.4.5
-Pillow==7.1.1
+Pillow==9.0.1
 pluggy==0.13.1
 pubnub==4.2.1
 py==1.8.1
